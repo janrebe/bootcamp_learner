@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Tic Tac Toe"
+		},
+		{
+			"path": "../../Snake Game"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tic Tac Toe"
+	}
+}
